@@ -1,0 +1,5 @@
+Order ID,Order Date,Ship Date,Customer Name,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit,Product ID,Product Name,Segment,Country,City,State,Postal Code,Ship Mode,Customer ID,Region Code,Returned,Rating
+CA-2017-152156,08-11-2017,11-11-2017,Claire Gute,West,Furniture,Bookcases,261.96,2,0,41.9136,FUR-BO-10001798,Bush Somerset Bookcase,Consumer,United States,Los Angeles,California,90036,Second Class,CG-12520,W1,No,4.5
+CA-2017-152156,08-11-2017,11-11-2017,Claire Gute,West,Furniture,Chairs,731.94,3,0,219.582,FUR-CH-10000454,Hon Deluxe Chair,Corporate,United States,Los Angeles,California,90036,Standard Class,CG-12520,W1,No,4
+US-2016-108966,11-10-2016,18-10-2016,Sean Miller,East,Technology,Phones,911.424,5,0.2,90.57,TEC-PH-10002033,Nokia Smart Phone,Home Office,Canada,New York,New York,10001,Same Day,SM-20310,E2,Yes,3.5
+US-2015-108966,09-06-2015,14-06-2015,Sean Miller,East,Technology,Phones,914.208,6,0.2,102.96,TEC-PH-10001874,Samsung Galaxy Phone,Consumer,Canada,New York,New York,10001,First Class,SM-20310,E2,No,5
